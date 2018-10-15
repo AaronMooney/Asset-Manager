@@ -12,3 +12,6 @@ An asset manager that allows the user to create a tilemap or level created with 
 
 # Known major bugs
   - If trying to draw multiple tiles at the right edge of the map, the program will only draw one row rather than the full selection.
+
+# Notes
+  - In order to run this project you will need to download SFML, build the Asset Manager and add all of the .dll files from the SFML/bin directory to the AssetManager/Debug folder.
